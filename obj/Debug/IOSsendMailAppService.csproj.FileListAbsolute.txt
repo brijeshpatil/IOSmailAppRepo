@@ -1,0 +1,6 @@
+D:\brijesh\MorningBatch\IOSsendMailAppService\IOSsendMailAppService\bin\IOSsendMailAppService.dll.config
+D:\brijesh\MorningBatch\IOSsendMailAppService\IOSsendMailAppService\bin\IOSsendMailAppService.dll
+D:\brijesh\MorningBatch\IOSsendMailAppService\IOSsendMailAppService\bin\IOSsendMailAppService.pdb
+D:\brijesh\MorningBatch\IOSsendMailAppService\IOSsendMailAppService\obj\Debug\IOSsendMailAppService.csprojResolveAssemblyReference.cache
+D:\brijesh\MorningBatch\IOSsendMailAppService\IOSsendMailAppService\obj\Debug\IOSsendMailAppService.dll
+D:\brijesh\MorningBatch\IOSsendMailAppService\IOSsendMailAppService\obj\Debug\IOSsendMailAppService.pdb
